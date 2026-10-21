@@ -1,0 +1,8 @@
+{
+  "name": "image-drop-clipboard",
+  "version": "0.1.0",
+  "description": "Dragging an image file into the prompt puts the image on the clipboard instead of pasting its path, so Ctrl+V attaches it.",
+  "author": { "name": "Paul Osinga" },
+  "license": "MIT",
+  "repository": "https://github.com/paulpwo/image-drop-clipboard"
+}

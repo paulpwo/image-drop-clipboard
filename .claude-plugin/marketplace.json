@@ -1,0 +1,5 @@
+{
+  "name": "image-drop-clipboard",
+  "owner": { "name": "Paul Osinga" },
+  "plugins": [{ "name": "image-drop-clipboard", "source": "./" }]
+}
